@@ -8,3 +8,5 @@ I am always looking to learn and improve my skills, so feel free to reach out if
 <a href="https://twitter.com/niyarrbarman"><img src="https://github.com/niyarrbarman/niyarrbarman/blob/main/twitter.png" height=30 width=30 alt="My Twitter"></a>
 
 Thank you for visiting my profile!
+
+![](https://komarev.com/ghpvc/?username=niyarrbarman&style=for-the-badge)
