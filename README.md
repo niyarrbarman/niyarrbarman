@@ -4,8 +4,8 @@ Here, you will find a variety of projects that I have worked on, both for person
 I am always looking to learn and improve my skills, so feel free to reach out if you have any offers, suggestions or opportunities for collaboration. 
 
 ### My Socials
-![LinkedIn](https://github.com/niyarrbarman/niyarrbarman/blob/main/linkedin.png)(https://www.linkedin.com/in/niyar/) 
-![Twitter](https://github.com/niyarrbarman/niyarrbarman/blob/main/twitter.png)(https://twitter.com/niyarrbarman)
+![LinkedIn](https://github.com/niyarrbarman/niyarrbarman/blob/main/linkedin.png)
+![Twitter](https://github.com/niyarrbarman/niyarrbarman/blob/main/twitter.png)
 
 
 Thank you for visiting my profile!
