@@ -5,7 +5,7 @@ I am always looking to learn and improve my skills, so feel free to reach out if
 
 ### My Socials
 
-[![LinkedIn](https://github.com/niyarrbarman/niyarrbarman/blob/f2b7fdca6f62b7fc21957f0740b208b61c1ff29b/linkedin.png)](https://www.linkedin.com/in/niyar/)
+[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/niyar/)
 <a href="https://twitter.com/niyarrbarman"><img src="twitter.png" width=20 height=20></a>
 
 
